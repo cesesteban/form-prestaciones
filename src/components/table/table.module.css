@@ -1,0 +1,8 @@
+.display {
+  display: grid;
+  justify-content: center;
+}
+.displayButton {
+  display: flex;
+  justify-content: center;
+}
